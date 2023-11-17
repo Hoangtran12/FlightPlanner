@@ -4,9 +4,6 @@ To execute it: 		java P3345.java data.txt plan.txt out.txt
 
 For example: 
 
-PS C:\Users\hoang\OneDrive\Documents\Fall2023\SE3345\Project1> javac P3345.java
-PS C:\Users\hoang\OneDrive\Documents\Fall2023\SE3345\Project1> java P3345.java data.txt plan.txt out.txt
-Processing your request...
 Thank you for waiting, your initerary is in out.txt. Double click to view it.
 
 
